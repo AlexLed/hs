@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/document-open.png</file>
+        <file>images/document-save.png</file>
+        <file>images/document-save-as.png</file>
+        <file>images/cancel.png</file>
+        <file>images/exit.png</file>
+        <file>images/folder-open.png</file>
+        <file>images/go-next-view.png</file>
+        <file>images/graphics.png</file>
+        <file>images/help-about.png</file>
+        <file>images/help-contents.png</file>
+        <file>images/help-hint.png</file>
+        <file>images/plane.png</file>
+        <file>images/process-stop.png</file>
+        <file>images/qt-logo.png</file>
+        <file>images/table.png</file>
+        <file>images/color.png</file>
+        <file>images/zoomin.png</file>
+        <file>images/zoomout.png</file>
+        <file>translations/hs_ru.qm</file>
+        <file>images/english.png</file>
+        <file>images/russian.png</file>
+        <file>images/3D.png</file>
+        <file>images/cache.png</file>
+    </qresource>
+</RCC>
